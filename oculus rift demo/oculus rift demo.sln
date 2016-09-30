@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{95EB2A2C-7393-00E4-373F-9C8CA0AC06D9}") = "oculus rift demo", "Assembly-CSharp.csproj", "{3646CC5F-8DE2-6F80-C747-13A0A2EE6FED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3646CC5F-8DE2-6F80-C747-13A0A2EE6FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3646CC5F-8DE2-6F80-C747-13A0A2EE6FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3646CC5F-8DE2-6F80-C747-13A0A2EE6FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3646CC5F-8DE2-6F80-C747-13A0A2EE6FED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
